@@ -9,7 +9,7 @@
     </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=AQUA+BOT+MD+🇱🇰&font=Fira%20Code&center=true&width=380&height=50">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=⭕+100.0%+ORIGINAL+PROFILE+☠️&font=Fira%20Code&center=true&width=380&height=50">
 
    
 
