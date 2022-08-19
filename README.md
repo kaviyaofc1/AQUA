@@ -20,7 +20,12 @@
 
  <h1 align="center"><b>AQUA Multi Device Bot</b></h1>
 
-**Aqua,** is a WhatsApp user bot written by [Sanuwa Official](https://github.com/sanuwaofficial) and edited by [Sanjuwa Official](https://github.com/Sanjuwa22). Does not log into your account It is written on WhatsApp Web API.
+**Aqua,** is a WhatsApp user bot.
+
+written by [Sanuwa Official](https://github.com/sanuwaofficial) 
+
+edited by [Sanjuwa Official](https://github.com/Sanjuwa22). 
+
 
 
 ---
