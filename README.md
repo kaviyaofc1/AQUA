@@ -24,7 +24,7 @@
 
 written by [Sanuwa Official](https://github.com/sanuwaofficial) 
 
-edited by [Sanjuwa Official](https://github.com/Sanjuwa22). 
+edited by [Sanjuwa Ofc](https://github.com/Sanjuwa22)
 
 
 
