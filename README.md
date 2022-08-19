@@ -52,6 +52,14 @@
 
 
 
+<p align="center">
+  <a href="https://wa.me/94710513877">
+    <img src="https://img.shields.io/badge/Contact%20Me%20On%20Whatsapp-Aqua%20whatsapp%20Bot-green&style=plastic">
+
+  </a>
+</p>
+
+
 
 
 <h1> ⚠️ Warning! ⚠️️</h1>
