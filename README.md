@@ -5,7 +5,7 @@
 <h1 align="center"><b>SRI LANKA 1ST MULTI DEVICE USER BOT</b></h1>
 
 
-<p align="center"> <a href="github.com/Sanjuwa22"><img align="center" src="https://telegra.ph/file/32ba46e4a7a557d05ce81.jpg"/></a>
+<p align="center"> <a href="github.com/kaviyaofc1"><img align="center" src="https://telegra.ph/file/a8a94d212fd52906b3c8d.jpg"/></a>
  <p align="center">
 </p>
 <p align='center'>
@@ -24,7 +24,7 @@
 
 written by [Sanuwa Official](https://github.com/sanuwaofficial) 
 
-edited by [Sanjuwa Ofc](https://github.com/Sanjuwa22)
+edited by [Kaviya Ofc](https://github.com/kaviyaofc1)
 
 
 
@@ -36,12 +36,12 @@ edited by [Sanjuwa Ofc](https://github.com/Sanjuwa22)
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsasena)](https://replit.com/@MagmaGaming/AQUABOT-REPL#index.js)
 
 ## QR කේතය ලබා ගත් පසු Bot deploy කිරීමට පහල බටනය CLICK කරන්න..
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/Sanjuwa22/AQUA)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/kaviyaofc1/AQUA)
 
 ---------------------------------   
 
 ### TOTAL REPO VIEWS
-![Visitor Count](https://profile-counter.glitch.me/Sanjuwa22/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/kaviyaofc1/count.svg)
 </p>
 
 
@@ -58,8 +58,8 @@ edited by [Sanjuwa Ofc](https://github.com/Sanjuwa22)
   </p>
 
 <p align="center">
-  <a href="https://wa.me/94710513877">
-    <img src="https://img.shields.io/badge/Re%20Edited%20By%20-Sanjuwa%20Ofc-green&style=plastic">
+  <a href="https://wa.me/94701659592">
+    <img src="https://img.shields.io/badge/Re%20Edited%20By%20-Kaviya%20Ofc-green&style=plastic">
 
   </a>
 </p>
