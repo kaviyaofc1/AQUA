@@ -49,9 +49,9 @@ edited by [Kaviya Ofc](https://github.com/kaviyaofc1)
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=⭕+BY+SANJUWA+OFC+☠️&font=Fira%20Code&center=true&width=380&height=50">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=⭕+BY+KAVIYA+OFC+☠️&font=Fira%20Code&center=true&width=380&height=50">
 
-  <a href="httsp://github.com/sanuwaofficial/AquaBot">
+  <a href="httsp://github.com/kaviyaofc1/AquaBot">
     <img src="https://img.shields.io/static/v1?label=Founder&message=Sanuwa%20Official&color=yellow&style=plastic">
 
   </a>
