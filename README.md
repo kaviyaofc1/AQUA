@@ -22,7 +22,7 @@
 
 **Aqua,** is a WhatsApp user bot.
 
-written by [Sanuwa Official](https://github.com/sanuwaofficial) 
+ 
 
 edited by [Kaviya Ofc](https://github.com/kaviyaofc1)
 
