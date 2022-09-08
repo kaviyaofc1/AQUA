@@ -24,7 +24,7 @@
 
  
 
-edited by [Kaviya Ofc](https://github.com/kaviyaofc1)
+written by [KAVIYA OFC](https://github.com/kaviyaofc1)
 
 
 
